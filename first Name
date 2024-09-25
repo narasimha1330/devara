@@ -1,0 +1,5 @@
+void main(){
+var fristName=
+"jhon";var lastName="Doe";
+print("full name $fristName$lastName");
+}
